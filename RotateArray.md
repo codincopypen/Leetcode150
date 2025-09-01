@@ -1,12 +1,12 @@
-Question Link 🔥:
+## Question Link 🔥:
 
-https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150
+🔗 [Click to show Problem in Leetcode](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150)
 
 
-SOLUTION C++ 🔥:
+### SOLUTION C++ 🔥:
 
 ==========================================================================================
-
+```cpp 
 class Solution {
 public:
 
@@ -25,5 +25,4 @@ public:
         reverse(nums, k, nums.size() - 1);
     }
 };
-
-=================================================================================================
+``` 
