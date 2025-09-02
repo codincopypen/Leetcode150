@@ -4,6 +4,8 @@
 
 ## Time Complexity O(N) 
 
+# SOLUTION IN ALL LANGUAGES 👍🏻
+
 ### SOLUTION C++ 🔥:
 ```cpp
 class Solution {
