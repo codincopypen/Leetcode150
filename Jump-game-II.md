@@ -2,20 +2,20 @@
 
 ## Question 🔥:
 You are given a 0-indexed array of integers nums of length n. You are initially positioned at index 0.
-Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at index i, you can jump to any index (i + j) where:\
+Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at index i, you can jump to any index (i + j) where: <br>
 
 ----  0 <= j <= nums[i] and <br>
 ----  i + j < n <br>
-Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1.
+Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1. <br>
 
-Example :
-Input: nums = [2,3,1,1,4]
-Output: 2
-Explanation: The minimum number of jumps to reach the last index is 2. 
-Jump 1 step from index 0 to 1, then 3 steps to the last index.
+Example : <br>
+Input: nums = [2,3,1,1,4] <br>
+Output: 2 <br>
+Explanation: The minimum number of jumps to reach the last index is 2. <br>
+Jump 1 step from index 0 to 1, then 3 steps to the last index. <br>
 
-🔗 [Click to show Question in Leetocode](https://leetcode.com/problems/jump-game-ii/description/)
-🔗 [Solution Video Link]()
+🔗 [Click to show Question in Leetocode](https://leetcode.com/problems/jump-game-ii/description/) <br>
+🔗 [Solution Video Link]() <br>
 
 ## Time Complexity : O(N) 
 
