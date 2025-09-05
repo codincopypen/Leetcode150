@@ -12,7 +12,7 @@ You must implement the functions of the class such that each function works in a
 
 🔗 [Click to show Question in Leetocode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
-## Average Time Complexity : O(N) 
+## Average Time Complexity : O(1) 
 
 ### SOLUTION IN C++ 🔥:
 ```cpp
