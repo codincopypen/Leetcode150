@@ -10,7 +10,8 @@ int getRandom() Returns a random element from the current set of elements (it's 
 Each element must have the same probability of being returned.<br>
 You must implement the functions of the class such that each function works in average O(1) time complexity.<br>
 
-🔗 [Click to show Question in Leetocode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
+https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png
+🔗 [Click to show Question in Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/)
 
 ## Average Time Complexity : O(1) 
 
