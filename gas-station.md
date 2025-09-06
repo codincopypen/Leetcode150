@@ -1,5 +1,5 @@
 ### C O D I N - C O P Y - P E N
-📷[Instagram](https://www.instagram.com/codin_copy_pen?igsh=MW1mMDRvYWF6eDBncw==) 📽[Youtube](https://youtube.com/@codincopypen?si=CQUn3_O_Zu87QK3Q)
+📷[Instagram](https://www.instagram.com/codin_copy_pen?igsh=MW1mMDRvYWF6eDBncw==)     📽[Youtube](https://youtube.com/@codincopypen?si=CQUn3_O_Zu87QK3Q)
 
 ## Question 🔥:
 There are n gas stations along a circular route, where the amount of gas at the ith station is gas[i].<br>
