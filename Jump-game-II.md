@@ -25,18 +25,18 @@ class Solution {
 public:
     int jump(vector<int>& nums) {
         
-        int ci = 0 , mx = 0 , cb=0 ; 
+        int i = 0 , max_reach = 0 , boundary=0 ; 
         int steps = 0 ; 
 
-        while( mx < nums.size()-1 ){
+        while( max_reach < nums.size()-1 ){
 
-            while( ci <= cb ){
-                mx = max( mx , (ci+nums[ci]) );
-                ci++;
+            while( i <= boundary ){
+                max_reach = max( max_reach , (i+nums[i]) );
+                i++;
             }
 
             steps++;
-            cb = mx ; 
+            boundary = max_reach ; 
         }
 
         return steps ; 
